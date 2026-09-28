@@ -26,28 +26,27 @@ I'm currently building a cybersecurity home lab using:
 - Linux servers
 - Isolated virtual networks
 
-The lab is being expanded with monitoring, SIEM, Windows/Active Directory, attack simulation, and incident-response scenarios.
-
 🛠️ Technologies & Tools
 
 Operating Systems
+
 Linux • Windows • Kali Linux
 
-Virtualization
+Virtualization:
 Proxmox VE
 
-Networking
+Networking:
 TCP/IP • DNS • DHCP • Firewalls • Network Segmentation
 
-Offensive Security
+Offensive Security:
 Nmap • Metasploit • Enumeration • Vulnerability Assessment
 
-Defensive Security
+Defensive Security:
 Wireshark • Log Analysis • Network Monitoring
 
 📚 My Cybersecurity Journey
 
-I use this GitHub profile to document what I'm learning, building, breaking, and investigating along the way.
+I will use this GitHub profile to document what I'm learning, building, breaking, and investigating along the way.
 
 You'll find:
 
@@ -65,11 +64,9 @@ You'll find:
 
 Right now, I'm focused on expanding my cybersecurity home lab, strengthening my networking and Linux fundamentals, and gaining hands-on experience across different areas of cybersecurity.
 
-I'm still exploring different cybersecurity paths and using practical projects to discover which areas I want to specialize in.
-
 📫 Connect
 
-LinkedIn:
+LinkedIn: Milan Nikolic
 X: @milanchee7
 Mail: milan07nik@gmail.com
 
@@ -77,6 +74,6 @@ Learn. Build. Break. Defend. Document.
 
 P.S
 
-I'm looking for people in the same field as me who want to connect with me and what to share the things they are doing so in that way we can both learn and have fun!
+I'm looking for people in the same field as me who want to connect and want to share the things they are doing and learning so in that way we can both learn new things and have fun doing that!
 
 If you have any questions feel free to ask!!!
