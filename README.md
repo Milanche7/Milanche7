@@ -4,6 +4,7 @@ I'm a cybersecurity student who is focused on learning and building every skill 
 
 I'm currently exploring both offensive and defensive security while building a strong foundation in networking, Linux, systems, and cybersecurity fundamentals.
 
+
 ## 🔐 Current Focus
 
 -Cybersecurity Fundamentals
@@ -15,6 +16,7 @@ I'm currently exploring both offensive and defensive security while building a s
 -Security Monitoring & Analysis
 -Security Tools & Methodologies
 
+
 ## 🧪 Home Lab
 
 I'm currently building a cybersecurity home lab using:
@@ -25,6 +27,7 @@ I'm currently building a cybersecurity home lab using:
 - Metasploitable
 - Linux servers
 - Isolated virtual networks
+  
 
 🛠️ Technologies & Tools
 
@@ -44,33 +47,40 @@ Nmap • Metasploit • Enumeration • Vulnerability Assessment
 Defensive Security:
 Wireshark • Log Analysis • Network Monitoring
 
+
 📚 My Cybersecurity Journey
 
 I will use this GitHub profile to document what I'm learning, building, breaking, and investigating along the way.
 
 You'll find:
 
-🧪 Home lab documentation
-🔐 Cybersecurity projects
-⚔️ Offensive security labs
-🛡️ Defensive security labs
-🔎 Security investigations
-🌐 Network diagrams
-📝 Lab write-ups
-🔧 Troubleshooting notes
-💡 Lessons learned
-❌ Things that didn't work — and how I fixed them
-🚧 Current Focus
+•🧪 Home lab documentation
+•🔐 Cybersecurity projects
+•⚔️ Offensive security labs
+•🛡️ Defensive security labs
+•🔎 Security investigations
+•🌐 Network diagrams
+•📝 Lab write-ups
+•🔧 Troubleshooting notes
+•💡 Lessons learned
+•❌ Things that didn't work — and how I fixed them
+•🚧 Current Focus
+
 
 Right now, I'm focused on expanding my cybersecurity home lab, strengthening my networking and Linux fundamentals, and gaining hands-on experience across different areas of cybersecurity.
+
 
 📫 Connect
 
 LinkedIn: Milan Nikolic
+
 X: @milanchee7
+
 Mail: milan07nik@gmail.com
 
+
 Learn. Build. Break. Defend. Document.
+
 
 P.S
 
